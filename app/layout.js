@@ -1,5 +1,3 @@
-import Logo from "./_components/Logo";
-import Navigation from "./_components/navigation";
 import Header from "./_components/Header";
 import { ReservationProvider } from "./_components/ReservationContext";
 
